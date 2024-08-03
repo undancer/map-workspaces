@@ -1,0 +1,22 @@
+{
+  "name": "map-tiles",
+  "type": "module",  
+  "version": "0.0.1",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "foo":"tsx ./scripts/foo.ts"
+  },
+  "dependencies": {
+    "nuxt": "^3.12.4",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "got": "^14.4.2",
+    "tsx": "^4.16.2"
+  }
+}
