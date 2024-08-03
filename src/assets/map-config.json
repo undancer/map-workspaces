@@ -1,0 +1,63 @@
+{
+  "slices": [
+    [
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/e9df2d03fdc71af6641c9e5b909e04d8_2660054586494739343.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/c41795ed79f107691836b2ab13e7fe40_8049678478943455379.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/f92ef4f5ef38c04a3b47f6e48e48a413_679428724686901874.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/982b0a0100f48225f9ca0651bd37d0f2_1294895063725069057.png"
+      }
+    ],
+    [
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/ff166a2ad91b93a0fc00da8d334d95b7_3865881864108399959.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/b3de4cafb74bb90f7f2a4c3d37481e4d_8879011006779968912.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/e9c57fdb5888832174ebaf59832ef36d_8662334368415995503.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/3defa753ad955339f66a79313ba00918_2022138876267985572.png"
+      }
+    ],
+    [
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/051141cb5271b3469ba023ad559e0ef0_304508313144583238.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/363edf05ea347d46e93d715b19175028_2874828104697761864.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/456f6948bdd39dd384f4570315f752c0_3613551708345776383.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/ae42b4d6c10f2ace8dcca362d4790f66_3078108048730929477.png"
+      }
+    ],
+    [
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/3ec6d4ea09c3edc3c23d5585c37c8a12_7415654720791965233.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/e576ee87ecfedf9273d152e93185c673_1181645534349293086.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/b46b7fc417518d9ec76a7eaf8b2a7358_2153194687813563407.png"
+      },
+      {
+        "url": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/16/75379475/c37bea1c130d96a5e026d754ad960ed4_1102562323004518427.png"
+      }
+    ]
+  ],
+  "origin": [9450, 4333],
+  "total_size": [16384, 16384],
+  "padding": [511, 2559]
+}
